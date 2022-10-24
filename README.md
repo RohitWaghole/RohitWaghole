@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @RohitWaghole
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Learning new Tech
+- 🌱 I’m currently learning Three.JS
+- 💞️ I’m looking to collaborate on Web Dev Projects
 
-<!---
-RohitWaghole/RohitWaghole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+
+
+
+
+
+
